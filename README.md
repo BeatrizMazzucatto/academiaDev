@@ -259,7 +259,7 @@ Exportador genérico que funciona com qualquer DTO anotado, seguindo DRY (Don't 
 
 Este projeto foi desenvolvido como trabalho acadêmico por:
 
-Ana Layslla - https://www.linkedin.com/in/ana-layslla/
+Ana Layslla - https://www.linkedin.com/in/ana-layslla/ & 
 Beatriz Mazzucatto - www.linkedin.com/in/beatriz-mazzucatto-seabra
 
 Projeto Acadêmico - IFSP GRU - 2025
